@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jimmyjulio007&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyjulio007" /> </p>
 
-<p align="center"> ![coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemozY3hkaml5bGowdXEydmpvNXdxdzBqcWJvbWE0NjR3dzJpcnU0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif) </p>
+<div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemozY3hkaml5bGowdXEydmpvNXdxdzBqcWJvbWE0NjR3dzJpcnU0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
