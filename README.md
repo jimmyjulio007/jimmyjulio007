@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jimmyjulio007&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyjulio007" /> </p>
 
-![image](https://github.com/user-attachments/assets/a201d9ac-3591-4252-acb1-1ab3b2d55f52)
+<div align="center" class="tenor-gif-embed" data-postid="8242011946475463671" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/solo-leveling-solo-leveling-season-2-solo-leveling-arise-sung-jin-woo-gif-8242011946475463671">Solo Leveling Solo Leveling Season 2 GIF</a>from <a href="https://tenor.com/search/solo+leveling-gifs">Solo Leveling GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <h3 align="center">Connect with me:</h3>
