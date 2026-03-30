@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c40d05e6-4698-4719-b0fe-d499ae8e2065" width="100%" alt="Jimmy Julio Banner" />
-</p>
-
 <h1 align="center">Jimmy Julio</h1>
 <p align="center">
   <strong>Full-Stack Engineer | Real-Time Systems Expert</strong><br>
