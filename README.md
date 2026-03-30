@@ -1,19 +1,62 @@
-<h1 align="center">Hi 👋, I'm Jimmy Julio</h1>
-<h3 align="center">A passionate fullstack js developer from Madagascar 🇲🇬</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jimmyjulio007&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyjulio007" /> </p>
-
-<div align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemozY3hkaml5bGowdXEydmpvNXdxdzBqcWJvbWE0NjR3dzJpcnU0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="GIF" /> </p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/andriamandresy-mitondrasoa-jimmy-julio-890a19210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andriamandresy-mitondrasoa-jimmy-julio-890a19210" height="30" width="40" /></a>
-<a href="https://fb.com/andriamandresy mitondrasoa jimmy julio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andriamandresy mitondrasoa jimmy julio" height="30" width="40" /></a>
+  <img src="https://github.com/user-attachments/assets/c40d05e6-4698-4719-b0fe-d499ae8e2065" width="100%" alt="Jimmy Julio Banner" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Jimmy Julio</h1>
+<p align="center">
+  <strong>Full-Stack Engineer | Real-Time Systems Expert</strong><br>
+  <em>Focused on high-performance architecture and professional delivery.</em>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmyjulio007&show_icons=true&locale=en&layout=compact" alt="jimmyjulio007" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/andriamandresy-mitondrasoa-jimmy-julio-890a19210"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://fb.com/andriamandresy mitondrasoa jimmy julio"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jimmyjulio007&label=Views&color=0e75b6&style=flat-square" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmyjulio007&show_icons=true&locale=en" alt="jimmyjulio007" /></p>
+---
+
+### 🚀 Professional Summary
+
+I specialize in the design and implementation of complex, real-time distributed systems and premium frontend experiences. My approach is centered on **technical excellence**, **rapid deployment**, and **architectural scalability**.
+
+*   🏆 **Socket.io World Rank: Top 0.01%**
+*   🏆 **Next.js World Rank: Top 1%**
+*   ⚙️ Expertise in high-concurrency systems and type-safe architectures.
+
+---
+
+### 💻 Technical Ecosystem
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Real-Time** | `NestJS` `Node.js` `Express.js` `Socket.io` `Rust` `Tauri` `FastAPI` |
+| **Frontend Engineering**| `React 19` `Next.js` `TypeScript` `Angular` `Three.js` `Tailwind CSS` |
+| **Cloud & Data** | `Supabase` `Neon` `PostgreSQL` `MongoDB` `Firebase` |
+| **State & Logic** | `TanStack Query` `TanStack Router` `Zustand` `Redux` `RxJS` |
+| **AI & Automation** | `Pandas` `PyTorch` `Streamlit` `Zod` `Excel Automation` |
+| **Tools & QA** | `Git` `Vite` `Postman` `Figma` `Supertest` `Pytest` |
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+  <a href="https://profile.codersrank.io/user/jimmyjulio007">
+    <img src="https://img.shields.io/badge/CodersRank-Senior_Engineer_|_Top_0.01%25-blue?style=flat-square&logo=codersrank" alt="CodersRank Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyjulio007&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Connect for Direct Collaboration
+
+<p align="center">
+  <a href="https://linkedin.com/in/andriamandresy-mitondrasoa-jimmy-julio-890a19210" target="blank">
+    <img src="https://img.shields.io/badge/Work_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
